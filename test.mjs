@@ -1,6 +1,6 @@
 import { expect } from "chai"
 
-import { getLongestPeak } from './index'
+import { getLongestPeak } from './index.mjs'
 
 describe('Longest Peak', () => {
     describe('#getLongestPeak', () => {
